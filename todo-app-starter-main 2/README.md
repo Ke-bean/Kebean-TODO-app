@@ -4,9 +4,9 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Thanks for checking out my coding  coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Kebean]https://ke-bean.github.io/) challenges help you find out some cool stuffs.
 
 **To do this challenge, you need a good understanding of HTML, CSS and JavaScript.**
 
